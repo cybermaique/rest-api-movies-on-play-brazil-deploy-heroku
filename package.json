@@ -1,0 +1,11 @@
+{
+  "name": "API_Movies_On_Play",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cybermaique/rest-api-movies-on-play-brazil.git",
+  "author": "cybermaique <maiqued.18@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
