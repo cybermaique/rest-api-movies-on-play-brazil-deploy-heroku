@@ -5,7 +5,7 @@
 
 
 ## Principais comandos utilizados:
-yarn init -y 
-npm add express
-heroku git:clone -a api-filmes-em-cartaz
-git push heroku master
+- yarn init -y 
+- npm add express
+- heroku git:clone -a api-filmes-em-cartaz
+- git push heroku master
