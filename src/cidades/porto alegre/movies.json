@@ -1,0 +1,39 @@
+[
+    {
+        "adulto": false,
+        "generos": [
+            "Suspense",
+            "Fantasia",
+            "Terror"
+        ],
+        "id": 1,
+        "descricao": "Por mais de uma década, os pais Andy e Vicky estão fugindo, desesperados para esconder sua filha Charlie de uma agência federal sombria que quer aproveitar seu dom sem precedentes para criar fogo em uma arma de destruição em massa. Andy ensinou Charlie como desarmar seu poder, que é desencadeado pela raiva ou pela dor. Mas quando Charlie faz 11 anos, o fogo fica cada vez mais difícil de controlar. Depois que um incidente revela a localização da família, um agente misterioso é enviado para caçar a família e capturar Charlie de uma vez por todas. Charlie tem outros planos.",
+        "popularidade": 86.627,
+        "url_capa": "https://github.com/cybermaique/rest-api-movies-on-play-brazil/blob/master/src/cidades/porto%20alegre/imagens/Chamas%20da%20Vingan%C3%A7a.jpg?raw=true",
+        "data_lancamento": "12-05-2022",
+        "titulo": "Chamas da Vingança",
+        "url_trailer": "https://www.youtube.com/watch?v=1ntGWT0IgGY&ab_channel=ManiadeTV",
+        "media_votos": 6.2,
+        "quantidade_votos": 194,
+        "em_cartaz": true
+    },
+
+    {
+        "adulto": false,
+        "generos": [
+            "Drama",
+            "Comédia"
+        ],
+        "id": 2,
+        "descricao": "Dois ex-Rangers do Exército são emparelhados contra sua vontade na viagem de uma vida. Briggs e Lulu correm pela costa do Pacífico para chegar a tempo ao funeral de um companheiro soldado.",
+        "popularidade": 146.894,
+        "url_capa": "https://github.com/cybermaique/rest-api-movies-on-play-brazil/blob/master/src/cidades/porto%20alegre/imagens/Dog%20A%20Aventura%20de%20Uma%20Vida.jpg?raw=true",
+        "data_lancamento": "17-02-2022",
+        "titulo": "Dog: A Aventura de uma Vida",
+        "url_trailer": "https://www.youtube.com/watch?v=mPGS0aKhXV4&ab_channel=Ingresso.com",
+        "media_votos": 7.3,
+        "quantidade_votos": 336,
+        "em_cartaz": true
+    }
+    
+]
